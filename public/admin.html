@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>لوحة التحكم | سوجو منهل</title>
+  <link rel="icon" href="/assets/img/logo-mark.png">
+  <link rel="manifest" href="/admin/manifest.webmanifest">
+  <link rel="apple-touch-icon" href="/assets/img/icon-192.png">
+  <meta name="theme-color" content="#0D3B66">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Manhal Admin">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <link rel="stylesheet" href="/assets/admin.css">
+</head>
+<body>
+  <!-- Login -->
+  <div id="login" class="login" hidden>
+    <form class="login-card" id="loginForm" autocomplete="on">
+      <img src="/assets/img/logo-mark.png" alt="" class="login-logo">
+      <h1>لوحة التحكم</h1>
+      <p>سوجو منهل — Suzhou Manhal</p>
+      <label for="pw">كلمة المرور</label>
+      <div class="pw-wrap">
+        <input id="pw" name="password" type="password" autocomplete="current-password" required autofocus>
+        <button type="button" class="pw-eye" data-eye aria-label="إظهار"><i class="fa-regular fa-eye"></i></button>
+      </div>
+      <div class="login-err" id="loginErr"></div>
+      <button class="a-btn a-btn-primary a-btn-block" type="submit"><i class="fa-solid fa-right-to-bracket"></i> دخول</button>
+      <a href="/" class="login-back"><i class="fa-solid fa-arrow-right"></i> العودة للموقع</a>
+    </form>
+  </div>
+
+  <!-- App -->
+  <div id="adminApp" class="a-app" hidden>
+    <aside class="a-side" id="side">
+      <div class="a-brand"><img src="/assets/img/logo-mark-white.png" alt=""><div><b>SUZHOU MANHAL</b><small>لوحة التحكم</small></div></div>
+      <nav id="nav"></nav>
+    </aside>
+    <div class="a-side-back" data-side-close></div>
+    <div class="a-main">
+      <header class="a-top">
+        <button class="a-icon-btn a-menu" data-side-open aria-label="القائمة"><i class="fa-solid fa-bars"></i></button>
+        <h2 id="pageTitle">لوحة المعلومات</h2>
+        <div class="a-top-actions">
+          <span class="a-dirty" id="dirty" hidden><i class="fa-solid fa-circle"></i> تغييرات غير محفوظة</span>
+          <button class="a-btn a-btn-primary" id="saveBtn" disabled><i class="fa-solid fa-floppy-disk"></i> <span>حفظ التغييرات</span></button>
+          <a class="a-btn a-btn-ghost" href="/" target="_blank" rel="noopener"><i class="fa-solid fa-arrow-up-right-from-square"></i> <span class="hide-sm">عرض الموقع</span></a>
+          <button class="a-icon-btn" id="logoutBtn" title="تسجيل الخروج"><i class="fa-solid fa-right-from-bracket"></i></button>
+        </div>
+      </header>
+      <main class="a-content" id="view"></main>
+    </div>
+  </div>
+
+  <div class="toasts" id="toasts"></div>
+  <script src="/assets/i18n.js"></script>
+  <script src="/assets/admin.js"></script>
+</body>
+</html>

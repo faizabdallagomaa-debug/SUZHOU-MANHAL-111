@@ -1,0 +1,14 @@
+{
+  "name": "suzhou-manhal-website",
+  "version": "1.0.0",
+  "description": "Suzhou Manhal — bilingual (Arabic/English) industrial machinery website with admin panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

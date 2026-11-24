@@ -1,0 +1,2443 @@
+{
+  "settings": {
+    "siteName": {
+      "ar": "سوتشو منهل",
+      "en": "Suzhou Manhal"
+    },
+    "brandLine1": "SUZHOU MANHAL",
+    "tagline": {
+      "ar": "حلقة الوصل بين المستثمرين والمصانع العالمية",
+      "en": "Connecting Investors to Global Industries"
+    },
+    "logo": "/assets/img/logo-mark.png",
+    "logoWhite": "/assets/img/logo-mark-white.png",
+    "favicon": "",
+    "defaultLang": "ar",
+    "seoTitle": {
+      "ar": "سوتشو منهل | خطوط إنتاج ومكائن صناعية من الصين للخليج والشرق الأوسط",
+      "en": "Suzhou Manhal | Industrial Machinery & Turnkey Production Lines for the GCC & Middle East"
+    },
+    "seoDescription": {
+      "ar": "سوتشو منهل: توريد خطوط الإنتاج والمكائن الصناعية من الصين لعملائنا حول العالم، بتركيز خاص على الخليج العربي والشرق الأوسط — من دراسة المشروع حتى التركيب والتشغيل.",
+      "en": "Suzhou Manhal supplies production lines and industrial machinery from China to clients worldwide, with a special focus on the GCC and Middle East — from feasibility to installation."
+    },
+    "colors": {
+      "primary": "#0D3B66",
+      "secondary": "#1E5AA8",
+      "accent": "#3B82F6"
+    },
+    "announcement": {
+      "enabled": false,
+      "text": {
+        "ar": "شحن وتخليص حتى باب مصنعك في جميع دول الخليج والشرق الأوسط",
+        "en": "Shipping & clearance to your factory door across the GCC and Middle East"
+      },
+      "link": "#/markets"
+    },
+    "copyright": {
+      "ar": "© سوتشو منهل. جميع الحقوق محفوظة.",
+      "en": "© Suzhou Manhal. All rights reserved."
+    }
+  },
+  "contact": {
+    "whatsapp": "966539759859",
+    "whatsappMessage": {
+      "ar": "مرحباً سوتشو منهل، أرغب في الاستفسار عن",
+      "en": "Hello Suzhou Manhal, I would like to ask about"
+    },
+    "floatingWhatsapp": true,
+    "phones": [
+      {
+        "label": {
+          "ar": "السعودية — اتصال وواتساب",
+          "en": "Saudi Arabia — Call & WhatsApp"
+        },
+        "number": "+966 53 975 9859"
+      }
+    ],
+    "emails": [
+      {
+        "value": "suzhoumanhal@gmail.com"
+      }
+    ],
+    "offices": [
+      {
+        "name": {
+          "ar": "مكتب الصين",
+          "en": "China Office"
+        },
+        "address": {
+          "ar": "سوتشو، مقاطعة جيانغسو، الصين",
+          "en": "Suzhou, Jiangsu, China"
+        },
+        "mapUrl": "https://maps.google.com/?q=Suzhou+Jiangsu+China"
+      },
+      {
+        "name": {
+          "ar": "ممثل السعودية والخليج",
+          "en": "KSA & GCC Representative"
+        },
+        "address": {
+          "ar": "المملكة العربية السعودية",
+          "en": "Kingdom of Saudi Arabia"
+        },
+        "mapUrl": ""
+      }
+    ],
+    "hours": {
+      "ar": "السبت – الخميس: 9 صباحاً – 6 مساءً (بتوقيت مكة)",
+      "en": "Sat – Thu: 9 AM – 6 PM (KSA time)"
+    },
+    "mapEmbed": "https://www.google.com/maps?q=Suzhou%20Jiangsu%20China&output=embed"
+  },
+  "socials": [
+    {
+      "platform": "whatsapp",
+      "icon": "fa-brands fa-whatsapp",
+      "url": "https://wa.me/966539759859",
+      "show": true
+    },
+    {
+      "platform": "instagram",
+      "icon": "fa-brands fa-instagram",
+      "url": "https://instagram.com/",
+      "show": true
+    },
+    {
+      "platform": "facebook",
+      "icon": "fa-brands fa-facebook-f",
+      "url": "https://facebook.com/",
+      "show": true
+    },
+    {
+      "platform": "youtube",
+      "icon": "fa-brands fa-youtube",
+      "url": "https://youtube.com/",
+      "show": true
+    },
+    {
+      "platform": "tiktok",
+      "icon": "fa-brands fa-tiktok",
+      "url": "https://tiktok.com/",
+      "show": true
+    },
+    {
+      "platform": "linkedin",
+      "icon": "fa-brands fa-linkedin-in",
+      "url": "https://linkedin.com/",
+      "show": true
+    },
+    {
+      "platform": "x",
+      "icon": "fa-brands fa-x-twitter",
+      "url": "https://x.com/",
+      "show": true
+    },
+    {
+      "platform": "telegram",
+      "icon": "fa-brands fa-telegram",
+      "url": "https://t.me/",
+      "show": true
+    },
+    {
+      "platform": "snapchat",
+      "icon": "fa-brands fa-snapchat",
+      "url": "https://snapchat.com/",
+      "show": true
+    },
+    {
+      "platform": "wechat",
+      "icon": "fa-brands fa-weixin",
+      "url": "",
+      "show": false
+    },
+    {
+      "platform": "email",
+      "icon": "fa-solid fa-envelope",
+      "url": "mailto:suzhoumanhal@gmail.com",
+      "show": true
+    }
+  ],
+  "hero": [
+    {
+      "badge": {
+        "ar": "من مصانع الصين إلى خط إنتاجك",
+        "en": "From China's factories to your production floor"
+      },
+      "title": {
+        "ar": "ابدأ مصنعك بثقة.. نحن عينك في الصين",
+        "en": "Build your factory with confidence — we are your eyes in China"
+      },
+      "subtitle": {
+        "ar": "خطوط إنتاج متكاملة ومكائن صناعية من مصانع موثّقة، مع فحص الجودة والشحن حتى ميناء بلدك والتركيب والتدريب بفريق يتحدث لغتك.",
+        "en": "Turnkey production lines and industrial machinery from verified factories — with quality inspection, shipping to your port, installation and training by a team that speaks your language."
+      },
+      "image": "",
+      "btn1Text": {
+        "ar": "تصفح المكائن",
+        "en": "Browse Machines"
+      },
+      "btn1Link": "#/machines",
+      "btn2Text": {
+        "ar": "اطلب استشارة مجانية",
+        "en": "Free Consultation"
+      },
+      "btn2Link": "#/contact"
+    },
+    {
+      "badge": {
+        "ar": "مشاريع تسليم مفتاح",
+        "en": "Turnkey projects"
+      },
+      "title": {
+        "ar": "من الفكرة إلى أول منتج يخرج من المصنع",
+        "en": "From the idea to the first product off the line"
+      },
+      "subtitle": {
+        "ar": "دراسة جدوى فنية، تصميم مخطط المصنع، اختيار المورد الأنسب، والتشغيل التجريبي — كل ذلك تحت إدارة واحدة.",
+        "en": "Technical feasibility, factory layout design, supplier selection and trial production — all under one management."
+      },
+      "image": "",
+      "btn1Text": {
+        "ar": "كيف نعمل",
+        "en": "How We Work"
+      },
+      "btn1Link": "#/services",
+      "btn2Text": {
+        "ar": "تواصل واتساب",
+        "en": "WhatsApp Us"
+      },
+      "btn2Link": "whatsapp"
+    },
+    {
+      "badge": {
+        "ar": "رؤية 2030 والتصنيع المحلي",
+        "en": "Vision 2030 & local manufacturing"
+      },
+      "title": {
+        "ar": "استثمر في الصناعة المحلية في الخليج",
+        "en": "Invest in local manufacturing across the Gulf"
+      },
+      "subtitle": {
+        "ar": "حلول مدروسة لقطاعات المياه والأغذية والتمور وإعادة التدوير ومواد البناء، مطابقة لمواصفات SASO والمواصفات الخليجية.",
+        "en": "Well-studied solutions for water, food, dates, recycling and building materials — compliant with SASO and GCC standards."
+      },
+      "image": "",
+      "btn1Text": {
+        "ar": "القطاعات الصناعية",
+        "en": "Industries"
+      },
+      "btn1Link": "#/machines",
+      "btn2Text": {
+        "ar": "اطلب عرض سعر",
+        "en": "Request a Quote"
+      },
+      "btn2Link": "#/contact"
+    }
+  ],
+  "stats": [
+    {
+      "value": "300+",
+      "label": {
+        "ar": "مصنع شريك موثّق",
+        "en": "Verified partner factories"
+      }
+    },
+    {
+      "value": "14",
+      "label": {
+        "ar": "قطاع صناعي",
+        "en": "Industrial sectors"
+      }
+    },
+    {
+      "value": {
+        "ar": "عالمي",
+        "en": "Global"
+      },
+      "label": {
+        "ar": "شحن لكل دول العالم",
+        "en": "Worldwide shipping"
+      }
+    },
+    {
+      "value": "24/7",
+      "label": {
+        "ar": "متابعة ودعم فني",
+        "en": "Follow-up & support"
+      }
+    }
+  ],
+  "sections": {
+    "categories": {
+      "show": true,
+      "title": {
+        "ar": "القطاعات الصناعية",
+        "en": "Industrial Sectors"
+      },
+      "subtitle": {
+        "ar": "اختر قطاعك واستعرض خطوط الإنتاج والمكائن المناسبة لمشروعك",
+        "en": "Choose your sector and explore the right lines and machines for your project"
+      }
+    },
+    "featured": {
+      "show": true,
+      "title": {
+        "ar": "خطوط إنتاج مختارة",
+        "en": "Featured Production Lines"
+      },
+      "subtitle": {
+        "ar": "الأكثر طلباً في أسواق الخليج والشرق الأوسط",
+        "en": "Most requested across the GCC and Middle East"
+      }
+    },
+    "process": {
+      "show": true,
+      "title": {
+        "ar": "رحلة مصنعك في 5 خطوات",
+        "en": "Your Factory Journey in 5 Steps"
+      },
+      "subtitle": {
+        "ar": "نرافقك من الاستشارة الأولى حتى تشغيل المصنع وما بعده",
+        "en": "We walk with you from the first consultation to production and beyond"
+      }
+    },
+    "services": {
+      "show": true,
+      "title": {
+        "ar": "خدماتنا",
+        "en": "Our Services"
+      },
+      "subtitle": {
+        "ar": "أكثر من مجرد توريد مكائن — شراكة متكاملة لنجاح استثمارك",
+        "en": "More than supplying machines — a complete partnership for your investment"
+      }
+    },
+    "markets": {
+      "show": true,
+      "title": {
+        "ar": "نخدم العالم.. وتركيزنا الشرق الأوسط",
+        "en": "Serving the World — Focused on the Middle East"
+      },
+      "subtitle": {
+        "ar": "نصدّر خطوط الإنتاج لعملائنا في كل دول العالم، مع خبرة خاصة بأسواق الخليج العربي والشرق الأوسط ومواصفاتها وموانئها",
+        "en": "We export production lines to clients worldwide, with special expertise in the GCC and Middle East markets, their standards and ports"
+      }
+    },
+    "why": {
+      "show": true,
+      "title": {
+        "ar": "لماذا سوتشو منهل؟",
+        "en": "Why Suzhou Manhal?"
+      },
+      "subtitle": {
+        "ar": "لأن استثمارك يستحق شريكاً على الأرض في الصين",
+        "en": "Because your investment deserves a partner on the ground in China"
+      }
+    },
+    "testimonials": {
+      "show": false,
+      "title": {
+        "ar": "ماذا يقول عملاؤنا",
+        "en": "What Our Clients Say"
+      },
+      "subtitle": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    "faq": {
+      "show": true,
+      "title": {
+        "ar": "الأسئلة الشائعة",
+        "en": "Frequently Asked Questions"
+      },
+      "subtitle": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    "cta": {
+      "show": true,
+      "title": {
+        "ar": "لديك فكرة مشروع صناعي؟",
+        "en": "Have an industrial project in mind?"
+      },
+      "subtitle": {
+        "ar": "تحدث مع خبير الآن واحصل على تصور مبدئي وعرض سعر خلال 48 ساعة",
+        "en": "Talk to an expert now and get an initial concept and quotation within 48 hours"
+      }
+    }
+  },
+  "categories": [
+    {
+      "id": "water",
+      "icon": "fa-solid fa-bottle-water",
+      "image": "",
+      "name": {
+        "ar": "المياه والمشروبات",
+        "en": "Water & Beverages"
+      },
+      "desc": {
+        "ar": "محطات تحلية ومعالجة، خطوط تعبئة مياه، 5 جالون، مشروبات غازية",
+        "en": "RO treatment, water bottling, 5-gallon and carbonated drink lines"
+      }
+    },
+    {
+      "id": "dairy",
+      "icon": "fa-solid fa-cow",
+      "image": "",
+      "name": {
+        "ar": "الألبان والعصائر",
+        "en": "Dairy & Juices"
+      },
+      "desc": {
+        "ar": "خطوط الحليب المبستر وUHT واللبن والعصائر",
+        "en": "Pasteurized & UHT milk, laban, yogurt and juice lines"
+      }
+    },
+    {
+      "id": "food",
+      "icon": "fa-solid fa-cookie-bite",
+      "image": "",
+      "name": {
+        "ar": "الحلويات والمخبوزات والسناكس",
+        "en": "Confectionery, Bakery & Snacks"
+      },
+      "desc": {
+        "ar": "بسكويت، كيك، شيبس، معكرونة، خبز عربي",
+        "en": "Biscuits, cakes, chips, pasta and Arabic bread"
+      }
+    },
+    {
+      "id": "dates",
+      "icon": "fa-solid fa-seedling",
+      "image": "",
+      "name": {
+        "ar": "تصنيع وتعبئة التمور",
+        "en": "Dates Processing"
+      },
+      "desc": {
+        "ar": "غسيل وفرز وتعبئة، نزع النوى، عجينة ودبس التمر",
+        "en": "Washing, grading, packing, pitting, paste and syrup"
+      }
+    },
+    {
+      "id": "plastic",
+      "icon": "fa-solid fa-cubes",
+      "image": "",
+      "name": {
+        "ar": "صناعة البلاستيك",
+        "en": "Plastics Industry"
+      },
+      "desc": {
+        "ar": "نفخ عبوات PET، حقن، بثق أنابيب وأفلام",
+        "en": "PET blowing, injection molding, pipe and film extrusion"
+      }
+    },
+    {
+      "id": "paper",
+      "icon": "fa-solid fa-mug-hot",
+      "image": "",
+      "name": {
+        "ar": "الأكواب والأطباق الورقية",
+        "en": "Paper Cups & Tableware"
+      },
+      "desc": {
+        "ar": "أكواب، أطباق، علب وجبات، أكياس ورقية",
+        "en": "Cups, plates, meal boxes and paper bags"
+      }
+    },
+    {
+      "id": "packaging",
+      "icon": "fa-solid fa-box",
+      "image": "",
+      "name": {
+        "ar": "التعبئة والتغليف",
+        "en": "Filling & Packaging"
+      },
+      "desc": {
+        "ar": "تعبئة بودرة وحبوب وسوائل، تغليف أفقي ورأسي، شرنك",
+        "en": "Powder, granule & liquid filling, flow-wrap, VFFS, shrink"
+      }
+    },
+    {
+      "id": "printing",
+      "icon": "fa-solid fa-print",
+      "image": "",
+      "name": {
+        "ar": "الطباعة",
+        "en": "Printing"
+      },
+      "desc": {
+        "ar": "فلكسو، روتوغرافور، طباعة أكواب وأكياس",
+        "en": "Flexo, rotogravure, cup and bag printing"
+      }
+    },
+    {
+      "id": "carton",
+      "icon": "fa-solid fa-boxes-stacked",
+      "image": "",
+      "name": {
+        "ar": "الكرتون المضلع",
+        "en": "Corrugated Cartons"
+      },
+      "desc": {
+        "ar": "خطوط كرتون 3 و5 و7 طبقات وماكينات القص واللصق",
+        "en": "3/5/7-ply lines, die-cutting and folder-gluers"
+      }
+    },
+    {
+      "id": "detergents",
+      "icon": "fa-solid fa-pump-soap",
+      "image": "",
+      "name": {
+        "ar": "المنظفات ومستحضرات التجميل",
+        "en": "Detergents & Cosmetics"
+      },
+      "desc": {
+        "ar": "خلط وتعبئة المنظفات السائلة والشامبو والكريمات",
+        "en": "Mixing & filling of liquid detergents, shampoo and creams"
+      }
+    },
+    {
+      "id": "building",
+      "icon": "fa-solid fa-trowel-bricks",
+      "image": "",
+      "name": {
+        "ar": "مواد البناء",
+        "en": "Building Materials"
+      },
+      "desc": {
+        "ar": "بلوك وانترلوك، خلاطات خرسانة، ألواح عازلة",
+        "en": "Blocks & interlock pavers, concrete batching, insulated panels"
+      }
+    },
+    {
+      "id": "recycling",
+      "icon": "fa-solid fa-recycle",
+      "image": "",
+      "name": {
+        "ar": "إعادة التدوير",
+        "en": "Recycling"
+      },
+      "desc": {
+        "ar": "غسيل وتكسير PET، تحبيب البلاستيك، تدوير الإطارات",
+        "en": "PET washing & crushing, pelletizing, tyre recycling"
+      }
+    },
+    {
+      "id": "feed",
+      "icon": "fa-solid fa-wheat-awn",
+      "image": "",
+      "name": {
+        "ar": "الأعلاف والزراعة",
+        "en": "Feed & Agriculture"
+      },
+      "desc": {
+        "ar": "مصانع أعلاف مكعبات، مطاحن، تنظيف الحبوب",
+        "en": "Pellet feed mills, grain milling and cleaning"
+      }
+    },
+    {
+      "id": "metal",
+      "icon": "fa-solid fa-gears",
+      "image": "",
+      "name": {
+        "ar": "تشغيل المعادن والخشب CNC",
+        "en": "Metal & Wood CNC"
+      },
+      "desc": {
+        "ar": "قص ليزر، ثني، مخارط، راوترات CNC",
+        "en": "Laser cutting, press brakes, lathes, CNC routers"
+      }
+    }
+  ],
+  "machines": [
+    {
+      "id": "m-water-3in1",
+      "cat": "water",
+      "featured": true,
+      "model": "CGF 24-24-8",
+      "name": {
+        "ar": "خط تعبئة مياه 3 في 1 أوتوماتيكي بالكامل",
+        "en": "Fully Automatic 3-in-1 Water Bottling Line"
+      },
+      "capacity": {
+        "ar": "8,000 – 10,000 عبوة/ساعة",
+        "en": "8,000 – 10,000 BPH"
+      },
+      "desc": {
+        "ar": "خط متكامل للغسيل والتعبئة والتغطية لعبوات PET من 200 مل حتى 2 لتر، يشمل المعالجة والنفخ والتغليف حسب الطلب. مثالي لمصانع المياه الجديدة في الخليج.",
+        "en": "Integrated rinsing, filling and capping for PET bottles from 200 ml to 2 L, with optional water treatment, blowing and packing. Ideal for new water plants in the Gulf."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الطاقة الإنتاجية",
+            "en": "Capacity"
+          },
+          "v": {
+            "ar": "8,000 – 10,000 عبوة/ساعة (500 مل)",
+            "en": "8,000 – 10,000 BPH (500 ml)"
+          }
+        },
+        {
+          "k": {
+            "ar": "أحجام العبوات",
+            "en": "Bottle sizes"
+          },
+          "v": "200 ml – 2 L"
+        },
+        {
+          "k": {
+            "ar": "رؤوس الغسيل/التعبئة/التغطية",
+            "en": "Rinsing/Filling/Capping heads"
+          },
+          "v": "24 / 24 / 8"
+        },
+        {
+          "k": {
+            "ar": "الخامة",
+            "en": "Material"
+          },
+          "v": "SUS304 / SUS316"
+        },
+        {
+          "k": {
+            "ar": "نظام التحكم",
+            "en": "Control"
+          },
+          "v": "PLC + Touch Screen (Siemens / Schneider)"
+        },
+        {
+          "k": {
+            "ar": "الكهرباء",
+            "en": "Power supply"
+          },
+          "v": "380V / 220V, 50/60Hz"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "badge": {
+        "ar": "الأكثر طلباً",
+        "en": "Best seller"
+      },
+      "sections": [
+        {
+          "title": {
+            "ar": "مزايا الخط",
+            "en": "Line Highlights"
+          },
+          "text": {
+            "ar": "• تصميم صحي بالكامل من الستانلس ستيل\n• تبديل سريع لأحجام العبوات\n• استهلاك منخفض للطاقة والمياه\n• متوافق مع مواصفات SASO والمواصفات الخليجية",
+            "en": "• Fully sanitary stainless-steel design\n• Quick bottle size changeover\n• Low energy and water consumption\n• Compliant with SASO and GCC standards"
+          }
+        }
+      ],
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-water-5gal",
+      "cat": "water",
+      "featured": true,
+      "model": "QGF-300",
+      "name": {
+        "ar": "خط تعبئة مياه 5 جالون (19 لتر)",
+        "en": "5-Gallon (19 L) Water Filling Line"
+      },
+      "capacity": {
+        "ar": "300 قارورة/ساعة",
+        "en": "300 BPH"
+      },
+      "desc": {
+        "ar": "غسيل داخلي وخارجي وتعقيم وتعبئة وتغطية أوتوماتيكية لقوارير 19 لتر، مع خيار نزع الأغطية وفحص التسريب.",
+        "en": "Automatic inside/outside washing, sterilizing, filling and capping for 19 L bottles, with optional decapper and leak tester."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الطاقة الإنتاجية",
+            "en": "Capacity"
+          },
+          "v": {
+            "ar": "300 قارورة/ساعة",
+            "en": "300 bottles/hour"
+          }
+        },
+        {
+          "k": {
+            "ar": "حجم القارورة",
+            "en": "Bottle size"
+          },
+          "v": "3 / 5 Gallon (11 – 19 L)"
+        },
+        {
+          "k": {
+            "ar": "الخامة",
+            "en": "Material"
+          },
+          "v": "SUS304"
+        },
+        {
+          "k": {
+            "ar": "القدرة",
+            "en": "Power"
+          },
+          "v": "6 kW"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-ro",
+      "cat": "water",
+      "featured": false,
+      "model": "RO-10T",
+      "name": {
+        "ar": "محطة معالجة مياه بالتناضح العكسي RO",
+        "en": "Reverse Osmosis (RO) Water Treatment Plant"
+      },
+      "capacity": {
+        "ar": "10 طن/ساعة",
+        "en": "10 m³/hour"
+      },
+      "desc": {
+        "ar": "محطة معالجة متعددة المراحل: فلاتر رملية وكربونية، تناضح عكسي، أشعة UV وأوزون — مناسبة لمياه الآبار والمياه عالية الملوحة.",
+        "en": "Multi-stage treatment: sand & carbon filters, RO membranes, UV and ozone — suitable for well water and high-TDS sources."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "v": "1 – 50 m³/h"
+        },
+        {
+          "k": {
+            "ar": "الأغشية",
+            "en": "Membranes"
+          },
+          "v": "DOW / Hydranautics"
+        },
+        {
+          "k": {
+            "ar": "نسبة الاسترداد",
+            "en": "Recovery rate"
+          },
+          "v": "50% – 75%"
+        },
+        {
+          "k": {
+            "ar": "التعقيم",
+            "en": "Sterilization"
+          },
+          "v": "UV + Ozone"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-uht",
+      "cat": "dairy",
+      "featured": true,
+      "model": "UHT-5T",
+      "name": {
+        "ar": "خط إنتاج الحليب المبستر وطويل الأجل UHT",
+        "en": "Pasteurized & UHT Milk Production Line"
+      },
+      "capacity": {
+        "ar": "5 – 20 طن/يوم",
+        "en": "5 – 20 tons/day"
+      },
+      "desc": {
+        "ar": "استلام الحليب، الفرز والتجنيس، البسترة أو التعقيم UHT، والتعبئة في عبوات بلاستيكية أو كرتونية، مع نظام تنظيف CIP.",
+        "en": "Milk reception, separation and homogenization, pasteurization or UHT sterilization, and filling into bottles or cartons, with CIP cleaning."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "v": {
+            "ar": "5 – 20 طن/يوم",
+            "en": "5 – 20 T/day"
+          }
+        },
+        {
+          "k": {
+            "ar": "درجة التعقيم",
+            "en": "Sterilization temp."
+          },
+          "v": "137 – 140 °C / 4 s"
+        },
+        {
+          "k": {
+            "ar": "المنتجات",
+            "en": "Products"
+          },
+          "v": {
+            "ar": "حليب، لبن، زبادي، حليب منكه",
+            "en": "Milk, laban, yogurt, flavored milk"
+          }
+        },
+        {
+          "k": {
+            "ar": "التنظيف",
+            "en": "Cleaning"
+          },
+          "v": "Automatic CIP"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-juice",
+      "cat": "dairy",
+      "featured": false,
+      "model": "RCGF 18-18-6",
+      "name": {
+        "ar": "خط تعبئة العصائر الساخنة في عبوات PET",
+        "en": "Hot-Fill Juice Line for PET Bottles"
+      },
+      "capacity": {
+        "ar": "6,000 عبوة/ساعة",
+        "en": "6,000 BPH"
+      },
+      "desc": {
+        "ar": "خط تعبئة ساخنة للعصائر والمشروبات بنكهات الفاكهة، مع وحدة تحضير ومعالجة حرارية ونفق تبريد.",
+        "en": "Hot-fill line for juices and fruit drinks with preparation, thermal treatment and cooling tunnel."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الطاقة الإنتاجية",
+            "en": "Capacity"
+          },
+          "v": "6,000 BPH (500 ml)"
+        },
+        {
+          "k": {
+            "ar": "درجة التعبئة",
+            "en": "Filling temp."
+          },
+          "v": "85 – 92 °C"
+        },
+        {
+          "k": {
+            "ar": "الخامة",
+            "en": "Material"
+          },
+          "v": "SUS304 / SUS316"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-biscuit",
+      "cat": "food",
+      "featured": true,
+      "model": "BS-600",
+      "name": {
+        "ar": "خط إنتاج البسكويت الأوتوماتيكي",
+        "en": "Automatic Biscuit Production Line"
+      },
+      "capacity": {
+        "ar": "300 – 500 كجم/ساعة",
+        "en": "300 – 500 kg/h"
+      },
+      "desc": {
+        "ar": "خط كامل من العجن والتشكيل حتى الخبز بالفرن النفقي والتبريد والتغليف، لإنتاج البسكويت الصلب والطري والمحشو.",
+        "en": "Complete line from mixing and forming to tunnel oven baking, cooling and packing — hard, soft and sandwich biscuits."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الإنتاج",
+            "en": "Output"
+          },
+          "v": "300 – 500 kg/h"
+        },
+        {
+          "k": {
+            "ar": "عرض السير",
+            "en": "Belt width"
+          },
+          "v": "600 / 800 / 1000 mm"
+        },
+        {
+          "k": {
+            "ar": "الفرن",
+            "en": "Oven"
+          },
+          "v": {
+            "ar": "نفقي — غاز أو كهرباء أو ديزل",
+            "en": "Tunnel — gas, electric or diesel"
+          }
+        },
+        {
+          "k": {
+            "ar": "طول الخط",
+            "en": "Line length"
+          },
+          "v": "≈ 80 m"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-chips",
+      "cat": "food",
+      "featured": true,
+      "model": "PC-300",
+      "name": {
+        "ar": "خط إنتاج شيبس البطاطس الطازجة",
+        "en": "Fresh Potato Chips Production Line"
+      },
+      "capacity": {
+        "ar": "100 – 300 كجم/ساعة",
+        "en": "100 – 300 kg/h"
+      },
+      "desc": {
+        "ar": "غسيل وتقشير وتقطيع وسلق وقلي مستمر ونزع الزيت وإضافة النكهات والتعبئة بالنيتروجين.",
+        "en": "Washing, peeling, slicing, blanching, continuous frying, de-oiling, flavoring and nitrogen packing."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الإنتاج",
+            "en": "Output"
+          },
+          "v": "100 – 300 kg/h"
+        },
+        {
+          "k": {
+            "ar": "التسخين",
+            "en": "Heating"
+          },
+          "v": {
+            "ar": "غاز / كهرباء / ديزل",
+            "en": "Gas / Electric / Diesel"
+          }
+        },
+        {
+          "k": {
+            "ar": "الخامة",
+            "en": "Material"
+          },
+          "v": "SUS304"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-cake",
+      "cat": "food",
+      "featured": false,
+      "model": "CK-400",
+      "name": {
+        "ar": "خط إنتاج الكيك والكب كيك والكيك المحشو",
+        "en": "Cake, Cupcake & Filled Cake Line"
+      },
+      "capacity": {
+        "ar": "200 – 400 كجم/ساعة",
+        "en": "200 – 400 kg/h"
+      },
+      "desc": {
+        "ar": "خلط وتهوية وترسيب العجين في القوالب أو الأكواب الورقية والخبز والحشو والتغليف.",
+        "en": "Batter aeration, depositing into molds or paper cups, baking, injecting and packing."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الإنتاج",
+            "en": "Output"
+          },
+          "v": "200 – 400 kg/h"
+        },
+        {
+          "k": {
+            "ar": "المنتجات",
+            "en": "Products"
+          },
+          "v": {
+            "ar": "كب كيك، سويس رول، كيك محشو",
+            "en": "Cupcakes, Swiss roll, filled cakes"
+          }
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-dates-line",
+      "cat": "dates",
+      "featured": true,
+      "model": "DT-2000",
+      "name": {
+        "ar": "خط غسيل وفرز وتجفيف وتعبئة التمور",
+        "en": "Dates Washing, Grading, Drying & Packing Line"
+      },
+      "capacity": {
+        "ar": "1 – 3 طن/ساعة",
+        "en": "1 – 3 tons/hour"
+      },
+      "desc": {
+        "ar": "حل متكامل لمصانع التمور في السعودية والإمارات والعراق: غسيل بالفقاعات، فرز بالحجم واللون، تجفيف، تلميع، ووزن وتعبئة آلية.",
+        "en": "Complete solution for date factories in KSA, UAE and Iraq: bubble washing, size & color grading, drying, polishing, automatic weighing and packing."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "v": "1 – 3 T/h"
+        },
+        {
+          "k": {
+            "ar": "الفرز",
+            "en": "Grading"
+          },
+          "v": {
+            "ar": "بالحجم + فرز لوني بالكاميرا (اختياري)",
+            "en": "By size + optical color sorting (optional)"
+          }
+        },
+        {
+          "k": {
+            "ar": "التعبئة",
+            "en": "Packing"
+          },
+          "v": "250 g – 5 kg"
+        },
+        {
+          "k": {
+            "ar": "الخامة",
+            "en": "Material"
+          },
+          "v": "SUS304 food grade"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-dates-paste",
+      "cat": "dates",
+      "featured": false,
+      "model": "DP-500",
+      "name": {
+        "ar": "ماكينة نزع النوى وخط عجينة التمر",
+        "en": "Date Pitting Machine & Date Paste Line"
+      },
+      "capacity": {
+        "ar": "300 – 500 كجم/ساعة",
+        "en": "300 – 500 kg/h"
+      },
+      "desc": {
+        "ar": "نزع النوى آلياً، فرم وتنعيم وتسخين وتعبئة عجينة التمر في قوالب أو أكياس، مع خيار خط دبس التمر.",
+        "en": "Automatic pitting, mincing, refining, heating and filling of date paste into blocks or bags, with optional date syrup line."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "الإنتاج",
+            "en": "Output"
+          },
+          "v": "300 – 500 kg/h"
+        },
+        {
+          "k": {
+            "ar": "نسبة نزع النوى",
+            "en": "Pitting rate"
+          },
+          "v": "≥ 98%"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-pet-blow",
+      "cat": "plastic",
+      "featured": true,
+      "model": "SBM-4C",
+      "name": {
+        "ar": "ماكينة نفخ عبوات PET أوتوماتيكية 4 تجاويف",
+        "en": "Automatic PET Blow Molding Machine — 4 Cavity"
+      },
+      "capacity": {
+        "ar": "6,000 عبوة/ساعة",
+        "en": "6,000 BPH"
+      },
+      "desc": {
+        "ar": "نفخ عبوات المياه والعصائر والزيوت حتى 2 لتر، بتغذية أوتوماتيكية للبريفورم وتسخين بالأشعة تحت الحمراء.",
+        "en": "Blows water, juice and oil bottles up to 2 L with automatic preform feeding and infrared heating."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "عدد التجاويف",
+            "en": "Cavities"
+          },
+          "v": "4"
+        },
+        {
+          "k": {
+            "ar": "الإنتاج",
+            "en": "Output"
+          },
+          "v": "6,000 BPH (600 ml)"
+        },
+        {
+          "k": {
+            "ar": "أقصى حجم",
+            "en": "Max volume"
+          },
+          "v": "2 L"
+        },
+        {
+          "k": {
+            "ar": "ضغط الهواء",
+            "en": "Air pressure"
+          },
+          "v": "3.0 MPa"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-injection",
+      "cat": "plastic",
+      "featured": false,
+      "model": "SM-250T",
+      "name": {
+        "ar": "ماكينة حقن بلاستيك سيرفو 250 طن",
+        "en": "250-Ton Servo Plastic Injection Machine"
+      },
+      "capacity": {
+        "ar": "قوة إغلاق 250 طن",
+        "en": "250 T clamping force"
+      },
+      "desc": {
+        "ar": "ماكينة حقن موفرة للطاقة بمحرك سيرفو لإنتاج الأغطية والبريفورم والأدوات المنزلية وقطع السيارات.",
+        "en": "Energy-saving servo injection machine for caps, preforms, household items and auto parts."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "قوة الإغلاق",
+            "en": "Clamping force"
+          },
+          "v": "2500 kN"
+        },
+        {
+          "k": {
+            "ar": "وزن الحقنة",
+            "en": "Shot weight"
+          },
+          "v": "≈ 900 g"
+        },
+        {
+          "k": {
+            "ar": "توفير الطاقة",
+            "en": "Energy saving"
+          },
+          "v": "30% – 60%"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-paper-cup",
+      "cat": "paper",
+      "featured": true,
+      "model": "PC-120D",
+      "name": {
+        "ar": "ماكينة أكواب ورقية مزدوجة الجدار عالية السرعة",
+        "en": "High-Speed Double-Wall Paper Cup Machine"
+      },
+      "capacity": {
+        "ar": "100 – 120 كوب/دقيقة",
+        "en": "100 – 120 cups/min"
+      },
+      "desc": {
+        "ar": "لإنتاج أكواب القهوة والمشروبات الساخنة والباردة من 3 إلى 16 أونصة، بلحام ألتراسونيك وتحكم PLC.",
+        "en": "Produces 3 – 16 oz hot and cold drink cups with ultrasonic sealing and PLC control."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السرعة",
+            "en": "Speed"
+          },
+          "v": "100 – 120 pcs/min"
+        },
+        {
+          "k": {
+            "ar": "حجم الكوب",
+            "en": "Cup size"
+          },
+          "v": "3 – 16 oz"
+        },
+        {
+          "k": {
+            "ar": "الورق",
+            "en": "Paper"
+          },
+          "v": "150 – 350 gsm PE coated"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-paper-bag",
+      "cat": "paper",
+      "featured": false,
+      "model": "PB-330",
+      "name": {
+        "ar": "ماكينة أكياس ورقية بمقابض أوتوماتيكية",
+        "en": "Automatic Paper Bag Machine with Handles"
+      },
+      "capacity": {
+        "ar": "حتى 150 كيس/دقيقة",
+        "en": "Up to 150 bags/min"
+      },
+      "desc": {
+        "ar": "أكياس ورقية بقاع مربع ومقابض ملتوية أو مسطحة لمحلات التجزئة والمطاعم، مع خيار طباعة بخطّ واحد.",
+        "en": "Square-bottom bags with twisted or flat handles for retail and restaurants, with inline printing option."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السرعة",
+            "en": "Speed"
+          },
+          "v": "50 – 150 pcs/min"
+        },
+        {
+          "k": {
+            "ar": "عرض الكيس",
+            "en": "Bag width"
+          },
+          "v": "120 – 330 mm"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-flowpack",
+      "cat": "packaging",
+      "featured": false,
+      "model": "FP-450",
+      "name": {
+        "ar": "ماكينة تغليف أفقية Flow Pack سيرفو",
+        "en": "Servo Horizontal Flow-Pack Wrapping Machine"
+      },
+      "capacity": {
+        "ar": "حتى 230 عبوة/دقيقة",
+        "en": "Up to 230 packs/min"
+      },
+      "desc": {
+        "ar": "لتغليف البسكويت والكيك والخبز والصابون والأدوات الطبية بأغلفة مطبوعة مع تحكم سيرفو ثلاثي.",
+        "en": "Wraps biscuits, cakes, bread, soap and medical items with triple-servo control."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السرعة",
+            "en": "Speed"
+          },
+          "v": "40 – 230 packs/min"
+        },
+        {
+          "k": {
+            "ar": "عرض الفيلم",
+            "en": "Film width"
+          },
+          "v": "≤ 450 mm"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-carton-5ply",
+      "cat": "carton",
+      "featured": false,
+      "model": "CL-1800",
+      "name": {
+        "ar": "خط إنتاج الكرتون المضلع 5 طبقات",
+        "en": "5-Ply Corrugated Cardboard Production Line"
+      },
+      "capacity": {
+        "ar": "150 م/دقيقة",
+        "en": "150 m/min"
+      },
+      "desc": {
+        "ar": "خط كامل لإنتاج ألواح الكرتون المضلع 3 و5 طبقات للتغليف الصناعي وتعبئة الخضار والفواكه والتمور.",
+        "en": "Complete line for 3 & 5-ply corrugated boards for industrial, produce and dates packaging."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "عرض العمل",
+            "en": "Working width"
+          },
+          "v": "1400 – 2500 mm"
+        },
+        {
+          "k": {
+            "ar": "السرعة",
+            "en": "Speed"
+          },
+          "v": "100 – 200 m/min"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-flexo",
+      "cat": "printing",
+      "featured": false,
+      "model": "FX-6C",
+      "name": {
+        "ar": "ماكينة طباعة فلكسو 6 ألوان",
+        "en": "6-Color Flexographic Printing Machine"
+      },
+      "capacity": {
+        "ar": "حتى 200 م/دقيقة",
+        "en": "Up to 200 m/min"
+      },
+      "desc": {
+        "ar": "طباعة على الأفلام البلاستيكية والورق والمواد غير المنسوجة للتغليف المرن والأكياس.",
+        "en": "Prints on plastic films, paper and non-woven for flexible packaging and bags."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "عدد الألوان",
+            "en": "Colors"
+          },
+          "v": "4 / 6 / 8"
+        },
+        {
+          "k": {
+            "ar": "عرض الطباعة",
+            "en": "Print width"
+          },
+          "v": "600 – 1300 mm"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-detergent",
+      "cat": "detergents",
+      "featured": true,
+      "model": "DL-2000",
+      "name": {
+        "ar": "خط خلط وتعبئة المنظفات السائلة",
+        "en": "Liquid Detergent Mixing & Filling Line"
+      },
+      "capacity": {
+        "ar": "2,000 – 3,000 عبوة/ساعة",
+        "en": "2,000 – 3,000 BPH"
+      },
+      "desc": {
+        "ar": "خزانات خلط بالمجانسة، تعبئة مكبسية للسوائل اللزجة، تغطية ولصق ملصقات لمنظفات الأطباق والملابس والشامبو.",
+        "en": "Homogenizing mixers, piston filling for viscous liquids, capping and labeling for dish soap, laundry detergent and shampoo."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "حجم التعبئة",
+            "en": "Filling volume"
+          },
+          "v": "500 ml – 5 L"
+        },
+        {
+          "k": {
+            "ar": "خزان الخلط",
+            "en": "Mixing tank"
+          },
+          "v": "500 – 5000 L"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-block",
+      "cat": "building",
+      "featured": true,
+      "model": "QT10-15",
+      "name": {
+        "ar": "ماكينة بلوك وانترلوك أوتوماتيكية",
+        "en": "Automatic Concrete Block & Interlock Machine"
+      },
+      "capacity": {
+        "ar": "حتى 15,000 بلوكة/8 ساعات",
+        "en": "Up to 15,000 blocks/8 h"
+      },
+      "desc": {
+        "ar": "إنتاج البلوك المفرغ والمصمت والانترلوك والبردورات بهزاز هيدروليكي، مثالية لطفرة البناء في الخليج.",
+        "en": "Produces hollow & solid blocks, interlock pavers and curbstones with hydraulic vibration — ideal for the Gulf's construction boom."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "دورة التشكيل",
+            "en": "Cycle time"
+          },
+          "v": "15 – 20 s"
+        },
+        {
+          "k": {
+            "ar": "مقاس اللوح",
+            "en": "Pallet size"
+          },
+          "v": "1100 × 900 mm"
+        },
+        {
+          "k": {
+            "ar": "القدرة",
+            "en": "Power"
+          },
+          "v": "52 kW"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-pet-recycle",
+      "cat": "recycling",
+      "featured": false,
+      "model": "PW-1000",
+      "name": {
+        "ar": "خط غسيل وتكسير عبوات PET لإعادة التدوير",
+        "en": "PET Bottle Washing & Recycling Line"
+      },
+      "capacity": {
+        "ar": "500 – 2000 كجم/ساعة",
+        "en": "500 – 2,000 kg/h"
+      },
+      "desc": {
+        "ar": "فك البالات ونزع الملصقات والتكسير والغسيل الساخن والتجفيف لإنتاج رقائق PET نظيفة جاهزة للبيع أو التحبيب.",
+        "en": "Bale opening, label removal, crushing, hot washing and drying to produce clean PET flakes ready for sale or pelletizing."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "v": "500 – 2000 kg/h"
+        },
+        {
+          "k": {
+            "ar": "الرطوبة النهائية",
+            "en": "Final moisture"
+          },
+          "v": "≤ 1%"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-feed",
+      "cat": "feed",
+      "featured": false,
+      "model": "FM-5T",
+      "name": {
+        "ar": "مصنع أعلاف مكعبات متكامل",
+        "en": "Complete Pellet Feed Mill"
+      },
+      "capacity": {
+        "ar": "3 – 10 طن/ساعة",
+        "en": "3 – 10 tons/hour"
+      },
+      "desc": {
+        "ar": "طحن وخلط وتكعيب وتبريد وتعبئة أعلاف الدواجن والمواشي.",
+        "en": "Grinding, mixing, pelleting, cooling and bagging for poultry and livestock feed."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "v": "3 – 10 T/h"
+        },
+        {
+          "k": {
+            "ar": "قطر المكعب",
+            "en": "Pellet diameter"
+          },
+          "v": "2 – 8 mm"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "m-laser",
+      "cat": "metal",
+      "featured": false,
+      "model": "FL-3015",
+      "name": {
+        "ar": "ماكينة قص ليزر فايبر CNC",
+        "en": "CNC Fiber Laser Cutting Machine"
+      },
+      "capacity": {
+        "ar": "قدرة 3 – 12 كيلوواط",
+        "en": "3 – 12 kW"
+      },
+      "desc": {
+        "ar": "قص دقيق للصاج والستانلس والألمنيوم لورش الحدادة والمطابخ والديكور.",
+        "en": "Precise cutting of carbon steel, stainless and aluminum for fabrication, kitchens and decor."
+      },
+      "specs": [
+        {
+          "k": {
+            "ar": "مساحة العمل",
+            "en": "Working area"
+          },
+          "v": "3000 × 1500 mm"
+        },
+        {
+          "k": {
+            "ar": "مصدر الليزر",
+            "en": "Laser source"
+          },
+          "v": "Raycus / MAX / IPG"
+        }
+      ],
+      "images": [],
+      "video": "",
+      "sections": [],
+      "badge": {
+        "ar": "",
+        "en": ""
+      },
+      "price": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "process": [
+    {
+      "icon": "fa-solid fa-comments",
+      "title": {
+        "ar": "الاستشارة ودراسة المشروع",
+        "en": "Consultation & Study"
+      },
+      "desc": {
+        "ar": "نفهم منتجك وميزانيتك والسوق المستهدف ونقدم تصوراً فنياً ومالياً مبدئياً.",
+        "en": "We understand your product, budget and target market, then provide an initial technical and financial concept."
+      }
+    },
+    {
+      "icon": "fa-solid fa-magnifying-glass-chart",
+      "title": {
+        "ar": "اختيار المصنع وتدقيقه",
+        "en": "Factory Selection & Audit"
+      },
+      "desc": {
+        "ar": "نقارن بين عدة مصانع ونزورها ميدانياً للتحقق من الجودة والقدرة والمصداقية.",
+        "en": "We compare several factories and visit them on site to verify quality, capacity and credibility."
+      }
+    },
+    {
+      "icon": "fa-solid fa-file-signature",
+      "title": {
+        "ar": "التفاوض والتعاقد",
+        "en": "Negotiation & Contract"
+      },
+      "desc": {
+        "ar": "نفاوض على أفضل سعر ونصيغ عقداً يحمي حقوقك بمواصفات وجداول تسليم واضحة.",
+        "en": "We negotiate the best price and draft a contract protecting your rights with clear specs and delivery terms."
+      }
+    },
+    {
+      "icon": "fa-solid fa-ship",
+      "title": {
+        "ar": "الفحص والشحن",
+        "en": "Inspection & Shipping"
+      },
+      "desc": {
+        "ar": "اختبار تشغيل المكائن في المصنع قبل الشحن، ثم الشحن والتخليص حتى موقعك.",
+        "en": "Factory acceptance testing before shipment, then shipping and clearance to your site."
+      }
+    },
+    {
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "title": {
+        "ar": "التركيب والتدريب والدعم",
+        "en": "Installation, Training & Support"
+      },
+      "desc": {
+        "ar": "مهندسون صينيون مع مترجم عربي للتركيب والتشغيل وتدريب فريقك، وقطع غيار ودعم مستمر.",
+        "en": "Chinese engineers with an Arabic interpreter for installation, commissioning and training, plus spare parts and ongoing support."
+      }
+    }
+  ],
+  "services": [
+    {
+      "icon": "fa-solid fa-industry",
+      "title": {
+        "ar": "توريد خطوط الإنتاج",
+        "en": "Production Line Sourcing"
+      },
+      "desc": {
+        "ar": "توريد مكائن مفردة أو خطوط متكاملة من شبكة مصانع موثّقة في الصين.",
+        "en": "Single machines or complete lines from a network of verified Chinese factories."
+      }
+    },
+    {
+      "icon": "fa-solid fa-clipboard-check",
+      "title": {
+        "ar": "فحص الجودة والتدقيق",
+        "en": "Quality Inspection & Audits"
+      },
+      "desc": {
+        "ar": "تدقيق المصانع، فحص ما قبل الشحن، واختبار التشغيل بحضورك أو عبر بث مباشر.",
+        "en": "Factory audits, pre-shipment inspection and run tests — in person or via live video."
+      }
+    },
+    {
+      "icon": "fa-solid fa-compass-drafting",
+      "title": {
+        "ar": "تصميم المصنع والمخطط",
+        "en": "Factory Layout Design"
+      },
+      "desc": {
+        "ar": "مخطط متكامل لتوزيع الخط والمرافق والمساحات والكهرباء والمياه قبل الشراء.",
+        "en": "Complete layout for line placement, utilities, space, power and water before you buy."
+      }
+    },
+    {
+      "icon": "fa-solid fa-truck-fast",
+      "title": {
+        "ar": "الشحن والتخليص الجمركي",
+        "en": "Shipping & Customs Clearance"
+      },
+      "desc": {
+        "ar": "شحن بحري وجوي حتى جدة والدمام وجبل علي وأم قصر وغيرها، مع تخليص حتى باب المصنع.",
+        "en": "Sea & air freight to Jeddah, Dammam, Jebel Ali, Umm Qasr and more, with door-to-door clearance."
+      }
+    },
+    {
+      "icon": "fa-solid fa-certificate",
+      "title": {
+        "ar": "المطابقة والشهادات",
+        "en": "Compliance & Certification"
+      },
+      "desc": {
+        "ar": "المساعدة في شهادات SASO وسابر وG-Mark وCE ومتطلبات الحلال والجهات الرقابية.",
+        "en": "Support with SASO/SABER, G-Mark, CE, Halal and regulatory requirements."
+      }
+    },
+    {
+      "icon": "fa-solid fa-chart-line",
+      "title": {
+        "ar": "دراسات الجدوى الفنية",
+        "en": "Technical Feasibility Studies"
+      },
+      "desc": {
+        "ar": "حساب الطاقة الإنتاجية والمساحة والعمالة والتكلفة التقديرية لمشروعك.",
+        "en": "Capacity, floor space, manpower and estimated cost calculations for your project."
+      }
+    },
+    {
+      "icon": "fa-solid fa-user-gear",
+      "title": {
+        "ar": "التركيب والتشغيل",
+        "en": "Installation & Commissioning"
+      },
+      "desc": {
+        "ar": "فرق فنية متخصصة لتركيب الخط وتشغيله تجريبياً حتى الوصول للإنتاج المستهدف.",
+        "en": "Specialized teams install and trial-run your line until target output is reached."
+      }
+    },
+    {
+      "icon": "fa-solid fa-gear",
+      "title": {
+        "ar": "قطع الغيار وما بعد البيع",
+        "en": "Spare Parts & After-Sales"
+      },
+      "desc": {
+        "ar": "توريد سريع لقطع الغيار ودعم فني عن بُعد باللغة العربية.",
+        "en": "Fast spare parts supply and remote technical support in Arabic."
+      }
+    }
+  ],
+  "markets": [
+    {
+      "code": "sa",
+      "region": "gcc",
+      "name": {
+        "ar": "المملكة العربية السعودية",
+        "en": "Saudi Arabia"
+      },
+      "note": {
+        "ar": "جدة • الدمام • الرياض (ميناء جاف)",
+        "en": "Jeddah • Dammam • Riyadh Dry Port"
+      },
+      "sectors": {
+        "ar": "المياه، التمور، الأغذية، مواد البناء، إعادة التدوير",
+        "en": "Water, dates, food, building materials, recycling"
+      },
+      "desc": {
+        "ar": "السوق الأكبر في المنطقة، مدعوم برؤية 2030 وبرامج توطين الصناعة وتحفيز المصانع الجديدة.",
+        "en": "The region's largest market, driven by Vision 2030 and industrial localization programs."
+      }
+    },
+    {
+      "code": "ae",
+      "region": "gcc",
+      "name": {
+        "ar": "الإمارات",
+        "en": "United Arab Emirates"
+      },
+      "note": {
+        "ar": "جبل علي • خليفة",
+        "en": "Jebel Ali • Khalifa Port"
+      },
+      "sectors": {
+        "ar": "التغليف، البلاستيك، الأغذية، المنظفات",
+        "en": "Packaging, plastics, food, detergents"
+      },
+      "desc": {
+        "ar": "مركز تجاري ولوجستي عالمي ومنصة لإعادة التصدير لكل المنطقة وأفريقيا.",
+        "en": "A global trade & logistics hub and re-export platform for the region and Africa."
+      }
+    },
+    {
+      "code": "qa",
+      "region": "gcc",
+      "name": {
+        "ar": "قطر",
+        "en": "Qatar"
+      },
+      "note": {
+        "ar": "ميناء حمد",
+        "en": "Hamad Port"
+      },
+      "sectors": {
+        "ar": "الألبان، المياه، الأغذية",
+        "en": "Dairy, water, food"
+      },
+      "desc": {
+        "ar": "تركيز كبير على الأمن الغذائي والإنتاج المحلي.",
+        "en": "Strong focus on food security and local production."
+      }
+    },
+    {
+      "code": "kw",
+      "region": "gcc",
+      "name": {
+        "ar": "الكويت",
+        "en": "Kuwait"
+      },
+      "note": {
+        "ar": "الشويخ • الشعيبة",
+        "en": "Shuwaikh • Shuaiba"
+      },
+      "sectors": {
+        "ar": "المياه، البلاستيك، مواد البناء",
+        "en": "Water, plastics, building materials"
+      },
+      "desc": {
+        "ar": "طلب مستمر على مصانع المياه والتعبئة ومواد البناء.",
+        "en": "Steady demand for water, packaging and building materials plants."
+      }
+    },
+    {
+      "code": "om",
+      "region": "gcc",
+      "name": {
+        "ar": "سلطنة عُمان",
+        "en": "Oman"
+      },
+      "note": {
+        "ar": "صحار • صلالة • الدقم",
+        "en": "Sohar • Salalah • Duqm"
+      },
+      "sectors": {
+        "ar": "التمور، الأسماك، الأغذية، مواد البناء",
+        "en": "Dates, fish, food, building materials"
+      },
+      "desc": {
+        "ar": "مناطق حرة وحوافز قوية للمستثمرين الصناعيين.",
+        "en": "Free zones and strong incentives for industrial investors."
+      }
+    },
+    {
+      "code": "bh",
+      "region": "gcc",
+      "name": {
+        "ar": "البحرين",
+        "en": "Bahrain"
+      },
+      "note": {
+        "ar": "ميناء خليفة بن سلمان",
+        "en": "Khalifa Bin Salman Port"
+      },
+      "sectors": {
+        "ar": "التغليف، الأغذية",
+        "en": "Packaging, food"
+      },
+      "desc": {
+        "ar": "بوابة سهلة لسوق الخليج مع تكاليف تشغيل تنافسية.",
+        "en": "An easy gateway to the GCC with competitive operating costs."
+      }
+    },
+    {
+      "code": "iq",
+      "region": "mena",
+      "name": {
+        "ar": "العراق",
+        "en": "Iraq"
+      },
+      "note": {
+        "ar": "أم قصر • عبر الأردن وتركيا",
+        "en": "Umm Qasr • via Jordan & Turkey"
+      },
+      "sectors": {
+        "ar": "التمور، المياه، الأعلاف، البلاستيك",
+        "en": "Dates, water, feed, plastics"
+      },
+      "desc": {
+        "ar": "سوق ضخم يعيد بناء قاعدته الصناعية مع طلب عالٍ على خطوط الإنتاج.",
+        "en": "A large market rebuilding its industrial base with high demand for lines."
+      }
+    },
+    {
+      "code": "eg",
+      "region": "mena",
+      "name": {
+        "ar": "مصر",
+        "en": "Egypt"
+      },
+      "note": {
+        "ar": "الإسكندرية • السخنة • بورسعيد",
+        "en": "Alexandria • Sokhna • Port Said"
+      },
+      "sectors": {
+        "ar": "الأغذية، التغليف، الطباعة، الورق",
+        "en": "Food, packaging, printing, paper"
+      },
+      "desc": {
+        "ar": "أكبر سوق استهلاكي عربي وقاعدة تصدير لأفريقيا.",
+        "en": "The largest Arab consumer market and an export base to Africa."
+      }
+    },
+    {
+      "code": "jo",
+      "region": "mena",
+      "name": {
+        "ar": "الأردن",
+        "en": "Jordan"
+      },
+      "note": {
+        "ar": "ميناء العقبة",
+        "en": "Aqaba Port"
+      },
+      "sectors": {
+        "ar": "الأغذية، المنظفات، الأدوية",
+        "en": "Food, detergents, pharma"
+      },
+      "desc": {
+        "ar": "بوابة للعراق وبلاد الشام مع اتفاقيات تجارة حرة.",
+        "en": "A gateway to Iraq and the Levant with free-trade agreements."
+      }
+    },
+    {
+      "code": "ye",
+      "region": "mena",
+      "name": {
+        "ar": "اليمن",
+        "en": "Yemen"
+      },
+      "note": {
+        "ar": "عدن • المكلا",
+        "en": "Aden • Mukalla"
+      },
+      "sectors": {
+        "ar": "المياه، الأغذية، البلاستيك",
+        "en": "Water, food, plastics"
+      },
+      "desc": {
+        "ar": "طلب متزايد على المصانع الصغيرة والمتوسطة.",
+        "en": "Growing demand for small and medium factories."
+      }
+    },
+    {
+      "code": "",
+      "icon": "fa-solid fa-earth-africa",
+      "region": "world",
+      "name": {
+        "ar": "أفريقيا",
+        "en": "Africa"
+      },
+      "note": {
+        "ar": "شرق وغرب وشمال أفريقيا",
+        "en": "East, West & North Africa"
+      },
+      "sectors": {
+        "ar": "الأغذية، المياه، مواد البناء، البلاستيك",
+        "en": "Food, water, building materials, plastics"
+      },
+      "desc": {
+        "ar": "أسواق نامية بطلب متزايد على المصانع الصغيرة والمتوسطة.",
+        "en": "Growing markets with rising demand for small and medium factories."
+      }
+    },
+    {
+      "code": "",
+      "icon": "fa-solid fa-earth-asia",
+      "region": "world",
+      "name": {
+        "ar": "آسيا",
+        "en": "Asia"
+      },
+      "note": {
+        "ar": "جنوب ووسط وجنوب شرق آسيا",
+        "en": "South, Central & Southeast Asia"
+      },
+      "sectors": {
+        "ar": "التغليف، الطباعة، إعادة التدوير",
+        "en": "Packaging, printing, recycling"
+      },
+      "desc": {
+        "ar": "توريد مباشر وسريع من المصانع الصينية القريبة.",
+        "en": "Fast, direct supply from nearby Chinese factories."
+      }
+    },
+    {
+      "code": "",
+      "icon": "fa-solid fa-earth-europe",
+      "region": "world",
+      "name": {
+        "ar": "أوروبا",
+        "en": "Europe"
+      },
+      "note": {
+        "ar": "مع شهادات CE",
+        "en": "With CE certification"
+      },
+      "sectors": {
+        "ar": "التغليف، إعادة التدوير، CNC",
+        "en": "Packaging, recycling, CNC"
+      },
+      "desc": {
+        "ar": "مكائن مطابقة لمعايير CE مع فحص جودة صارم.",
+        "en": "CE-compliant machines with strict quality inspection."
+      }
+    },
+    {
+      "code": "",
+      "icon": "fa-solid fa-earth-americas",
+      "region": "world",
+      "name": {
+        "ar": "الأمريكيتان",
+        "en": "The Americas"
+      },
+      "note": {
+        "ar": "أمريكا الشمالية والجنوبية",
+        "en": "North & South America"
+      },
+      "sectors": {
+        "ar": "الأغذية، التغليف، المياه",
+        "en": "Food, packaging, water"
+      },
+      "desc": {
+        "ar": "شحن بحري منظم وتوثيق كامل لكل شحنة.",
+        "en": "Organized sea freight with full documentation."
+      }
+    }
+  ],
+  "why": [
+    {
+      "icon": "fa-solid fa-language",
+      "title": {
+        "ar": "فريق عربي داخل الصين",
+        "en": "Arabic team inside China"
+      },
+      "desc": {
+        "ar": "نتحدث لغتك ونفهم السوق الصيني — لا وسطاء ولا سوء فهم.",
+        "en": "We speak your language and know the Chinese market — no middlemen, no misunderstandings."
+      }
+    },
+    {
+      "icon": "fa-solid fa-location-dot",
+      "title": {
+        "ar": "قلب المنطقة الصناعية",
+        "en": "At the industrial heartland"
+      },
+      "desc": {
+        "ar": "مقرنا في سوتشو قرب شنغهاي، في أكبر حزام صناعي في الصين.",
+        "en": "Based in Suzhou near Shanghai, in China's largest manufacturing belt."
+      }
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": {
+        "ar": "حماية استثمارك",
+        "en": "Investment protection"
+      },
+      "desc": {
+        "ar": "عقود واضحة، دفعات مرتبطة بمراحل التنفيذ، وفحص قبل كل شحنة.",
+        "en": "Clear contracts, milestone-based payments and inspection before every shipment."
+      }
+    },
+    {
+      "icon": "fa-solid fa-hand-holding-dollar",
+      "title": {
+        "ar": "أسعار المصنع مباشرة",
+        "en": "Direct factory pricing"
+      },
+      "desc": {
+        "ar": "شفافية كاملة في الأسعار والعمولات، ومقارنة عروض متعددة لك.",
+        "en": "Full transparency on prices and fees, with multiple offers compared for you."
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "name": {
+        "ar": "اسم العميل",
+        "en": "Client name"
+      },
+      "role": {
+        "ar": "مصنع مياه — الرياض",
+        "en": "Water plant — Riyadh"
+      },
+      "text": {
+        "ar": "نموذج — استبدل هذا النص برأي عميل حقيقي من لوحة التحكم.",
+        "en": "Sample — replace this with a real client review from the admin panel."
+      },
+      "rating": 5
+    }
+  ],
+  "faq": [
+    {
+      "q": {
+        "ar": "هل تبيعون المكائن مباشرة أم تعملون كوكلاء؟",
+        "en": "Do you sell machines directly or act as agents?"
+      },
+      "a": {
+        "ar": "نعمل كشريك توريد لك داخل الصين: نختار المصنع المناسب ونتفاوض ونشرف على التصنيع والفحص والشحن، وبإمكانك التعاقد معنا كحزمة كاملة.",
+        "en": "We act as your sourcing partner in China: we select the right factory, negotiate, supervise manufacturing, inspection and shipping — available as one complete package."
+      }
+    },
+    {
+      "q": {
+        "ar": "كم يستغرق تجهيز خط الإنتاج وشحنه؟",
+        "en": "How long does it take to build and ship a line?"
+      },
+      "a": {
+        "ar": "عادة من 30 إلى 90 يوماً للتصنيع حسب نوع الخط، ومن 15 إلى 35 يوماً للشحن البحري إلى موانئ الخليج.",
+        "en": "Usually 30–90 days of manufacturing depending on the line, plus 15–35 days of sea freight to Gulf ports."
+      }
+    },
+    {
+      "q": {
+        "ar": "هل يمكنني رؤية المكائن قبل الشحن؟",
+        "en": "Can I see the machines before shipping?"
+      },
+      "a": {
+        "ar": "نعم، نجري اختبار تشغيل في المصنع بحضورك أو عبر بث مباشر بالفيديو، ولا يتم الشحن إلا بعد موافقتك.",
+        "en": "Yes. We run a factory acceptance test in person or via live video, and nothing ships without your approval."
+      }
+    },
+    {
+      "q": {
+        "ar": "ماذا عن التركيب والضمان وقطع الغيار؟",
+        "en": "What about installation, warranty and spare parts?"
+      },
+      "a": {
+        "ar": "نوفر مهندسين للتركيب والتدريب، وضماناً من المصنع غالباً لمدة 12 شهراً، مع قطع غيار احتياطية ودعم فني بالعربية.",
+        "en": "We provide engineers for installation and training, a factory warranty (typically 12 months), spare parts and Arabic technical support."
+      }
+    },
+    {
+      "q": {
+        "ar": "ما طرق الدفع المتاحة؟",
+        "en": "What payment methods are available?"
+      },
+      "a": {
+        "ar": "تحويل بنكي على دفعات مرتبطة بمراحل التنفيذ، أو اعتماد مستندي (L/C) للمشاريع الكبيرة.",
+        "en": "Bank transfer in milestone-based installments, or a Letter of Credit (L/C) for larger projects."
+      }
+    }
+  ],
+  "about": {
+    "image": "",
+    "title": {
+      "ar": "من نحن",
+      "en": "About Us"
+    },
+    "intro": {
+      "ar": "سوتشو منهل شركة متخصصة في ربط المستثمرين ورجال الأعمال في الشرق الأوسط بأفضل المصانع الصينية، لتأسيس المصانع وتوريد خطوط الإنتاج المتكاملة.",
+      "en": "Suzhou Manhal connects investors and business owners in the Middle East with China's best manufacturers to set up factories and source complete production lines."
+    },
+    "story": {
+      "ar": "انطلقنا من مدينة سوتشو — إحدى أهم المدن الصناعية في الصين — بفريق عربي وصيني يجمع بين فهم احتياجات السوق العربي والخبرة الميدانية في المصانع الصينية. نؤمن أن نجاح المستثمر يبدأ باختيار صحيح، وعقد واضح، ومكائن تعمل كما وُعد بها.",
+      "en": "We started in Suzhou — one of China's leading industrial cities — with an Arab and Chinese team combining knowledge of Arab market needs with hands-on experience in Chinese factories. We believe an investor's success starts with the right choice, a clear contract and machines that perform as promised."
+    },
+    "mission": {
+      "ar": "تمكين المستثمر العربي من بناء مصنعه بثقة وأقل مخاطرة، عبر شراكة شفافة من الفكرة حتى التشغيل.",
+      "en": "Empower Arab investors to build their factories with confidence and minimal risk through a transparent partnership from idea to operation."
+    },
+    "vision": {
+      "ar": "أن نكون الجسر الصناعي الأول بين الصين والشرق الأوسط.",
+      "en": "To be the leading industrial bridge between China and the Middle East."
+    },
+    "values": [
+      {
+        "icon": "fa-solid fa-handshake",
+        "title": {
+          "ar": "الأمانة",
+          "en": "Integrity"
+        },
+        "desc": {
+          "ar": "نعامل أموالك كأموالنا.",
+          "en": "We treat your money as our own."
+        }
+      },
+      {
+        "icon": "fa-solid fa-eye",
+        "title": {
+          "ar": "الشفافية",
+          "en": "Transparency"
+        },
+        "desc": {
+          "ar": "لا تكاليف مخفية.",
+          "en": "No hidden costs."
+        }
+      },
+      {
+        "icon": "fa-solid fa-medal",
+        "title": {
+          "ar": "الجودة",
+          "en": "Quality"
+        },
+        "desc": {
+          "ar": "فحص قبل كل شحنة.",
+          "en": "Inspection before every shipment."
+        }
+      },
+      {
+        "icon": "fa-solid fa-people-group",
+        "title": {
+          "ar": "الشراكة",
+          "en": "Partnership"
+        },
+        "desc": {
+          "ar": "علاقة طويلة الأمد بعد التسليم.",
+          "en": "A long-term relationship after delivery."
+        }
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": "p-warranty",
+      "slug": "warranty",
+      "showInNav": false,
+      "showInFooter": true,
+      "title": {
+        "ar": "الضمان وخدمة ما بعد البيع",
+        "en": "Warranty & After-Sales"
+      },
+      "subtitle": {
+        "ar": "التزامنا معك لا ينتهي عند التسليم",
+        "en": "Our commitment does not end at delivery"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "heading": {
+            "ar": "الضمان",
+            "en": "Warranty"
+          },
+          "text": {
+            "ar": "جميع المكائن مشمولة بضمان المصنع، غالباً لمدة 12 شهراً من تاريخ التشغيل، ويشمل الأعطال المصنعية وقطع الغيار الأساسية.",
+            "en": "All machines are covered by the manufacturer's warranty, typically 12 months from commissioning, including manufacturing defects and key spare parts."
+          },
+          "image": "",
+          "buttonText": {
+            "ar": "",
+            "en": ""
+          },
+          "buttonLink": ""
+        },
+        {
+          "type": "text",
+          "heading": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "text": {
+            "ar": "دعم فني عن بُعد باللغة العربية عبر الواتساب والفيديو، وزيارات ميدانية عند الحاجة.",
+            "en": "Remote technical support in Arabic via WhatsApp and video, with on-site visits when needed."
+          },
+          "image": "",
+          "buttonText": {
+            "ar": "تواصل مع الدعم",
+            "en": "Contact Support"
+          },
+          "buttonLink": "whatsapp"
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "home": {
+      "label": {
+        "ar": "الرئيسية",
+        "en": "Home"
+      },
+      "show": true
+    },
+    "machines": {
+      "label": {
+        "ar": "منتجاتنا",
+        "en": "Machines"
+      },
+      "show": true
+    },
+    "markets": {
+      "label": {
+        "ar": "الأسواق",
+        "en": "Markets"
+      },
+      "show": false
+    },
+    "services": {
+      "label": {
+        "ar": "خدماتنا",
+        "en": "Services"
+      },
+      "show": true
+    },
+    "about": {
+      "label": {
+        "ar": "من نحن",
+        "en": "About"
+      },
+      "show": true
+    },
+    "contact": {
+      "label": {
+        "ar": "تواصل معنا",
+        "en": "Contact"
+      },
+      "show": true
+    }
+  }
+}

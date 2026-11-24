@@ -1,0 +1,35 @@
+{
+  "days": {
+    "2026-11-24": {
+      "v": 18,
+      "u": 2,
+      "uh": [
+        "47235777a459",
+        "ede8224cf495"
+      ]
+    }
+  },
+  "pages": {
+    "/machines": 2,
+    "/compare": 5,
+    "/machine": 6,
+    "/": 4,
+    "/page": 1
+  },
+  "machines": {
+    "m-uht": 2,
+    "m-water-3in1": 4
+  },
+  "countries": {
+    "sa": 18
+  },
+  "langs": {
+    "ar": 16,
+    "en": 1,
+    "zh": 1
+  },
+  "devices": {
+    "desktop": 18
+  },
+  "refs": {}
+}

@@ -1,0 +1,10 @@
+{
+  "privateJwk": {
+    "kty": "EC",
+    "x": "qQAo8BVLmZ9NQQMWU0arJUeFkEtBm88jFeVdfGC4LBk",
+    "y": "0w3UpAb1AlTEK9DbJyRwedVJ85F67G2kxXeu7xZSEp4",
+    "crv": "P-256",
+    "d": "Cwekr9i4fg15ndlmtcZhKZQOBSGvH8I07EcWyhvFXr4"
+  },
+  "publicKey": "BKkAKPAVS5mfTUEDFlNGqyVHhZBLQZvPIxXlXXxguCwZ0w3UpAb1AlTEK9DbJyRwedVJ85F67G2kxXeu7xZSEp4"
+}

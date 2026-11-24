@@ -1,0 +1,28 @@
+{
+  "suppliers": [
+    {
+      "id": "sp-t",
+      "name": "Test Factory",
+      "city": "Zhangjiagang"
+    }
+  ],
+  "shipments": [
+    {
+      "id": "sh-t",
+      "ref": "SM-T1",
+      "status": "shipped"
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "c-t",
+      "title": "T",
+      "offers": [
+        {
+          "supplier": "sp-t",
+          "price": 30000
+        }
+      ]
+    }
+  ]
+}

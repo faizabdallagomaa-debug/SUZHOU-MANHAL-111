@@ -1,0 +1,17 @@
+{
+  "name": "Suzhou Manhal Admin — لوحة تحكم سوجو منهل",
+  "short_name": "Manhal Admin",
+  "id": "/admin/",
+  "start_url": "/admin/#messages",
+  "scope": "/admin/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#071E36",
+  "theme_color": "#0D3B66",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

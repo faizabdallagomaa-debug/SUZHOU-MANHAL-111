@@ -1,0 +1,28 @@
+{
+  "notifyEmail": "faizabdallagomaa@gmail.com",
+  "smtp": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "user": "faizabdallagomaa@gmail.com",
+    "pass": "nozuqvukgjmciruf",
+    "fromName": "Suzhou Manhal"
+  },
+  "whatsapp": {
+    "mode": "fallback",
+    "phone": "966539759859",
+    "apikey": ""
+  },
+  "completionEmail": {
+    "enabled": true,
+    "subject": {
+      "ar": "تم إنجاز طلبك — سوجو منهل",
+      "en": "Your request is completed — Suzhou Manhal",
+      "zh": "您的需求已完成 — 苏州曼哈尔"
+    },
+    "body": {
+      "ar": "مرحباً {name}،\n\nنود إبلاغك بأنه تم الانتهاء من طلبك بخصوص: {machine}.\nنشكرك على ثقتك في سوجو منهل، ويسعدنا خدمتك دائماً.\n\nمع خالص التحية،\nفريق سوجو منهل",
+      "en": "Hello {name},\n\nWe are pleased to inform you that your request regarding: {machine} has been completed.\nThank you for trusting Suzhou Manhal — we are always happy to serve you.\n\nBest regards,\nSuzhou Manhal Team",
+      "zh": "{name} 您好：\n\n很高兴通知您，您关于「{machine}」的需求已经完成。\n感谢您对苏州曼哈尔的信任，我们随时乐意为您服务。\n\n此致\n苏州曼哈尔团队"
+    }
+  }
+}
